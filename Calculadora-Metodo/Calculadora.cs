@@ -1,6 +1,6 @@
 namespace Calculadora
 {
-    class Operações
+    class Operacoes
     {
         public static void RealizarAdicao(
             decimal valor1,
