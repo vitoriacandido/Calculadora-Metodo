@@ -4,5 +4,6 @@
 # PRIMEIRO MÉTODO
 ![alt text](image.png)
 =======
-
+# SEGUNDO MÉTODO
+![alt text](IMG/(2).png)
 
