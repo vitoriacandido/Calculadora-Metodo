@@ -8,11 +8,12 @@ if(!decimal.TryParse(Console.ReadLine(),out decimal valor1))
     goto repetir;
 }
 
+repetir_valor2:
 Console.WriteLine("Escolha um número: ");
 if(!decimal.TryParse(Console.ReadLine(),out decimal valor2))
 {
     Console.WriteLine("Valor Inválido! ");
-    goto repetir;
+    goto repetir_valor2;
 }
 
 Operacoes.RealizarAdicao(valor1,valor2);
