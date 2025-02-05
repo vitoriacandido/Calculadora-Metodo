@@ -1,2 +1,2 @@
 # Calculadora-Metodo
-## Criando metodos no uso do cs em C#.
+## Criando métodos no uso do cs em C#.
