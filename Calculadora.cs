@@ -3,7 +3,7 @@ namespace Calculadora
     class Operacoes
     {
         public static void RealizarAdicao(
-            decimal valor1,
+            decimal valor1, 
             decimal valor2
         )
 

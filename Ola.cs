@@ -1,10 +1,10 @@
 namespace Ola
 {
-    class Cumprimento
+    class Operacoes
     {
-        public static void Adição()
+        public static void ObterValor()
         {
-
+           
         }
     }
 }
